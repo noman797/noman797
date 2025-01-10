@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Xettabyte Problem Solving Club**
 
-- 🌱 I’m currently learning **Algorithms**
+- 🌱 I’m currently learning **Object Oriented Programming**
 
 - 💬 Ask me about **Programming**
 
