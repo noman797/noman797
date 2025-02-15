@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al Noman</h1>
 <h3 align="center">A passionate CSE Student</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=noman797&label=Profile%20views&color=0e75b6&style=flat](https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif)" alt="noman797" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noman797&label=Profile%20views&color=0e75b6&style=flat" alt="noman797" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noman797" alt="noman797" /></a> </p>
