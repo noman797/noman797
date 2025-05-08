@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Phitron**
 
-- 🌱 I’m currently learning **Object Oriented Programming**
+- 🌱 I’m currently learning **Database Management System**
 
 - 💬 Ask me about **Programming**
 
