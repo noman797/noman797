@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noman797" alt="noman797" /></a> </p>
 
-- 🔭 I’m currently working on **Phitron**
+- 🔭 I’m currently working on **Phitron & Ostad**
 
-- 🌱 I’m currently learning **Database Management System**
+- 🌱 I’m currently learning **Full Stack Python Django with React**
 
 - 💬 Ask me about **Programming**
 
