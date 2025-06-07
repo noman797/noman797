@@ -1,11 +1,7 @@
-<h1 align="center" style="font-family: 'Courier New', Courier, monospace; font-weight: 800; font-size: 4rem; color: #00C7FF; text-shadow:
-    0 0 5px #00c7ff,
-    0 0 10px #00c7ff,
-    0 0 20px #00c7ff,
-    0 0 40px #00f0ff;">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap" rel="stylesheet">
+<h1 align="center" style="font-family: 'Poppins', sans-serif; font-size: 4rem; color:#00C7FF; letter-spacing: 0.1em;">
   Hi there, I'm Noman 👋
 </h1>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=440&lines=Aspiring+Full-Stack+Developer;Python+Django+Backend+Enthusiast;Python+%7C+React+%7C+MySQL;Always+Learning+New+Things" alt="Typing SVG" />
