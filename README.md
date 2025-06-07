@@ -1,20 +1,17 @@
 <h1 align="center">Hi there, I'm Noman 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=440&lines=Aspiring+Full-stack+Developer;Python+Django+Backend+Enthusiast;Python+%7C+React+%7C+MySQL;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=440&lines=Aspiring+Full-Stack+Developer;Python+Django+Backend+Enthusiast;Python+%7C+React+%7C+MySQL;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
-
 
 ---
 
 ### 🧑‍💻 About Me
 
-Name: Abdullah Al Noman<br>
-Role: Full Stack Developer | Python Django with React Focused<br>
-Location: Dhaka, Bangladesh <br>
-Education: BSc in Computer Science & Engineering (3rd Year)
-
-
+**Name:** Abdullah Al Noman  
+**Role:** Full-Stack Developer | Passionate about Python Django & React  
+**Location:** Dhaka, Bangladesh  
+**Education:** BSc in Computer Science & Engineering (3rd Year)  
 
 ---
 
@@ -40,15 +37,13 @@ Education: BSc in Computer Science & Engineering (3rd Year)
 
 ---
 
+### 📫 Connect With Me
 
----
-
-### 📫 Connect Me
 <p>
-  <a href="https://facebook.com/nomancsediu"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png" alt="Facebook"/></a>
-  <a href="https://www.linkedin.com/in/noman797/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="#"><img src="https://img.icons8.com/bubbles/50/undefined/twitter-circled.png"/></a>
-  <a href="#"><img src="https://img.icons8.com/bubbles/50/undefined/youtube.png"/></a>
+  <a href="https://facebook.com/nomancsediu" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png" alt="Facebook" /></a>
+  <a href="https://www.linkedin.com/in/noman797/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" /></a>
+  <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/bubbles/50/undefined/twitter-circled.png" alt="Twitter" /></a>
+  <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/bubbles/50/undefined/youtube.png" alt="YouTube" /></a>
 </p>
 
 ---
@@ -60,7 +55,5 @@ Education: BSc in Computer Science & Engineering (3rd Year)
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
-
-
