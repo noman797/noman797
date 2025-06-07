@@ -41,9 +41,9 @@ Education: BSc in Computer Science & Engineering (3rd Year)
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shefat2002&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shefat2002&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shefat2002&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nomancsediu&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomancsediu&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomancsediu&theme=tokyonight" />
 </p>
 
 <p align="center">
