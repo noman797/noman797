@@ -62,4 +62,5 @@ Education: BSc in Computer Science & Engineering (3rd Year)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
- more beautiful
+
+
