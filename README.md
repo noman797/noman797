@@ -1,7 +1,18 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap" rel="stylesheet">
-<h1 align="center" style="font-family: 'Poppins', sans-serif; font-size: 4rem; color:#00C7FF; letter-spacing: 0.1em;">
+
+<h1 align="center" style="
+  font-family: 'Poppins', sans-serif; 
+  font-size: 4rem; 
+  background: linear-gradient(90deg, #00C7FF, #0057B7);
+  -webkit-background-clip: text; 
+  -webkit-text-fill-color: transparent;
+  letter-spacing: 0.1em;
+  text-shadow: 2px 2px 8px rgba(0, 199, 255, 0.5);
+  margin-bottom: 1rem;
+">
   Hi there, I'm Noman 👋
 </h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=440&lines=Aspiring+Full-Stack+Developer;Python+Django+Backend+Enthusiast;Python+%7C+React+%7C+MySQL;Always+Learning+New+Things" alt="Typing SVG" />
