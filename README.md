@@ -11,7 +11,7 @@
 
 Name: Abdullah Al Noman<br>
 Role: Full Stack Developer | Python Django with React Focused<br>
-Location: Dhaka, Bangladesh 🇧🇩<br>
+Location: Dhaka, Bangladesh <br>
 Education: BSc in Computer Science & Engineering (3rd Year)
 
 
