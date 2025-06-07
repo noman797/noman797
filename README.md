@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nomancsediu/your-repo/main/assets/cover-photo.jpg" alt="Cover Photo" width="100%" style="max-height: 300px; object-fit: cover; border-radius: 12px;" />
+</p>
+
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap" rel="stylesheet">
 
 <h1 align="center" style="
