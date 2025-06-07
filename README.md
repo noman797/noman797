@@ -22,8 +22,6 @@ Education: BSc in Computer Science & Engineering (3rd Year)
 
 | Domain        | Technologies                                                                 |
 |---------------|------------------------------------------------------------------------------|
-| Domain        | Technologies                                                                 |
-|---------------|------------------------------------------------------------------------------|
 | 💻 Backend     | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white) |
 | 🌐 Frontend    | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) |
 | 🔁 CI/CD       | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
