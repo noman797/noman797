@@ -1,29 +1,52 @@
-<h1 align="center">Hi 👋, I'm Abdullah Al Noman</h1>
-<h3 align="center">Aspiring Full Stack Python Django Developer</h3>
+<h1 align="center">Hi there, I'm Noman 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nomancsediu&label=Profile%20views&color=0e75b6&style=flat" alt="noman797" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nomancsediu" alt="noman797" /></a> </p>
-
-- 🌱 I’m currently learning **Full Stack Python Django with React**
-
-- 💬 Ask me about **Programming**
-
-- 📫 How to reach me **abdnoman093@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/noman797" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noman797" height="30" width="40" /></a>
-<a href="https://fb.com/nomancsediu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nomancsediu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abdnoman093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdnoman093" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nomancsediu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nomancsediu" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=440&lines=Aspiring+Full-stack+Developer;C%23+.NET+Backend+Enthusiast;C%23+%7C+Angular+%7C+MSSQL;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nomancsediu&show_icons=true&locale=en&layout=compact" alt="noman797" /></p>
+### 🧑‍💻 About Me
+yaml
+Name: Abdullah Al Noman
+Role: Full Stack Developer | Python Django with React Focused
+Location: Dhaka, Bangladesh 🇧🇩
+Education: BSc in Computer Science & Engineering (3rd Year)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nomancsediu&show_icons=true&locale=en" alt="noman797" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nomancsediu&" alt="noman797" /></p>
+---
+
+### 🛠 Tech Stack
+
+| Domain        | Technologies                                                                 |
+|---------------|------------------------------------------------------------------------------|
+| Domain        | Technologies                                                                 |
+|---------------|------------------------------------------------------------------------------|
+| 💻 Backend     | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white) |
+| 🌐 Frontend    | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) |
+| 🔁 CI/CD       | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
+| 🧠 AI/ML       | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) |
+| 🧰 Tools       | ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white) ![SSMS](https://img.shields.io/badge/SSMS-CC2927?logo=microsoft-sql-server&logoColor=white) |
+
+
+---
+
+### 📫 Connect Me
+<p>
+  <a href="https://facebook.com/nomancsediu"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png" alt="Facebook"/></a>
+  <a href="https://www.linkedin.com/in/noman797/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="#"><img src="https://img.icons8.com/bubbles/50/undefined/twitter-circled.png"/></a>
+  <a href="#"><img src="https://img.icons8.com/bubbles/50/undefined/youtube.png"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shefat2002&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shefat2002&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shefat2002&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
