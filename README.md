@@ -24,9 +24,8 @@ Education: BSc in Computer Science & Engineering (3rd Year)
 |---------------|------------------------------------------------------------------------------|
 | 💻 Backend     | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)|
 | 🌐 Frontend    | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) |
-| 🔁 CI/CD       | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
-| 🧠 AI/ML       | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) |
-| 🧰 Tools       | ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white) ![SSMS](https://img.shields.io/badge/SSMS-CC2927?logo=microsoft-sql-server&logoColor=white) |
+| 🔁 CI/CD       | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)|
+| 🧰 Tools       | ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white)|
 
 
 ---
