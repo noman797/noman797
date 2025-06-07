@@ -9,12 +9,18 @@
 
 ---
 
-### 🧑‍💻 About Me
-
-**Name:** Abdullah Al Noman  
-**Role:** Full-Stack Developer | Passionate about Python Django & React  
-**Location:** Dhaka, Bangladesh  
-**Education:** BSc in Computer Science & Engineering (3rd Year)  
+<section style="max-width: 600px; margin: 30px auto; padding: 20px; background: #0d1117; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,199,255,0.2); color: #c9d1d9; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <h2 style="text-align: center; color: #00c7ff; margin-bottom: 24px; font-weight: 700; font-size: 2.2rem; letter-spacing: 1.2px;">
+    🧑‍💻 About Me
+  </h2>
+  <ul style="list-style: none; padding: 0; font-size: 1.1rem; line-height: 1.6;">
+    <li><strong style="color: #00c7ff;">Name:</strong> Abdullah Al Noman</li>
+    <li><strong style="color: #00c7ff;">Role:</strong> Full-Stack Developer | Passionate about Python Django & React</li>
+    <li><strong style="color: #00c7ff;">Location:</strong> Dhaka, Bangladesh</li>
+    <li><strong style="color: #00c7ff;">Education:</strong> BSc in Computer Science & Engineering (3rd Year)</li>
+  </ul>
+</section>
+ 
 
 ---
 
