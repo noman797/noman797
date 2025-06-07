@@ -8,11 +8,12 @@
 ---
 
 ### 🧑‍💻 About Me
-yaml
-Name: Abdullah Al Noman
-Role: Full Stack Developer | Python Django with React Focused
-Location: Dhaka, Bangladesh 🇧🇩
+
+Name: Abdullah Al Noman<br>
+Role: Full Stack Developer | Python Django with React Focused<br>
+Location: Dhaka, Bangladesh 🇧🇩<br>
 Education: BSc in Computer Science & Engineering (3rd Year)
+
 
 
 ---
