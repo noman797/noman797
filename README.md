@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm Noman 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=440&lines=Aspiring+Full-stack+Developer;C%23+.NET+Backend+Enthusiast;C%23+%7C+Angular+%7C+MSSQL;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=440&lines=Aspiring+Full-stack+Developer;Python+Django+Backend+Enthusiast;Python+%7C+React+%7C+PostgreSQL;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
+
 
 ---
 
