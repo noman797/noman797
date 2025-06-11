@@ -28,31 +28,16 @@
 </p>
 
 
+<h2 style="text-align: center; color: #00c7ff; margin: 30px 0 16px; font-weight: 700; font-size: 2.2rem;">
+  🎯 Target in 2025
+</h2>
+<ul style="list-style: none; padding: 0; font-size: 1.1rem; line-height: 1.5;">
+  <li>👨‍💻 Solve 150+ LeetCode problems</li>
+  <li>💻 Become a Full-Stack Django Developer</li>
+  <li>🤖 Gain hands-on AI/ML experience via mini projects</li>
+</ul>
 
-<section style="max-width: 600px; margin: 30px auto; padding: 20px; background: #0d1117; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,199,255,0.2); color: #c9d1d9; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <h2 style="text-align: center; color: #00c7ff; margin-bottom: 24px; font-weight: 700; font-size: 2.2rem;">
-    🧑‍💻 About Me
-  </h2>
-  <ul style="list-style: none; padding: 0; font-size: 1.1rem; line-height: 1.5;">
-    <li><strong style="color: #00c7ff;">Name:</strong> Abdullah Al Noman</li>
-    <li><strong style="color: #00c7ff;">Role:</strong> Aspiring Full-Stack Developer (Python Django & React)</li>
-    <li><strong style="color: #00c7ff;">Location:</strong> Dhaka, Bangladesh</li>
-    <li><strong style="color: #00c7ff;">Education:</strong> BSc in CSE (3rd Year)</li>
-    <li><strong style="color: #00c7ff;">Interests:</strong> AI, ML, Data Science, DevOps, Cloud</li>
-    <li><strong style="color: #00c7ff;">Current Focus:</strong> Django & AI integration</li>
-  </ul>
 
-  <h2 style="text-align: center; color: #00c7ff; margin: 30px 0 16px; font-weight: 700; font-size: 2.2rem;">
-    🎯 Targets 2025
-  </h2>
-  <ul style="list-style: none; padding: 0; font-size: 1.1rem; line-height: 1.5;">
-    <li>👨‍💻 Solve 150+ LeetCode problems</li>
-    <li>💻 Become a Full-Stack Django Developer</li>
-    <li>🤖 Gain hands-on AI/ML experience via mini projects</li>
-  </ul>
-</section>
-
-<section>
 ### 🛠 Tech Stack
 
 #### Backend Development
@@ -72,7 +57,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</section>
 
 ### 📫 Connect With Me
 
