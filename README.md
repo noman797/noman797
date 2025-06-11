@@ -27,7 +27,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=440&lines=Aspiring+Full-Stack+Developer;Python+Django+Backend+Enthusiast;Python+%7C+React+%7C+MySQL;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
----
+
 
 <section style="max-width: 600px; margin: 30px auto; padding: 20px; background: #0d1117; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,199,255,0.2); color: #c9d1d9; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
