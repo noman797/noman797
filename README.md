@@ -55,6 +55,24 @@
 #### Tools & Platforms  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/-MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+---
+
+### 💻 Coding Platforms
+
+<p>
+  <a href="https://leetcode.com/yourusername" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/bubbles/50/000000/leetcode.png" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/abdnoman093" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/bubbles/50/000000/hackerrank.png" alt="HackerRank" />
+  </a>
+  <a href="https://codeforces.com/profile/yourusername" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/bubbles/50/000000/codeforces.png" alt="Codeforces" />
+  </a>
+    <a href="https://www.codechef.com/users/yourusername" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/bubbles/50/000000/codechef.png" alt="CodeChef" />
+  </a>
+</p>
 
 ---
 
