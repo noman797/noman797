@@ -55,22 +55,23 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/-MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-### 📫 Connect With Me
+### 📫 Coding Platforms
 
 <p align="left">
-  <a href="https://www.leetcode.com/noman" target="_blank">
+  <a href="#" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="noman" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/noman" target="_blank">
+  <a href="#" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="noman" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/noman" target="_blank">
+  <a href="#" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="noman" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/noman" target="_blank">
+  <a href="#" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="noman" height="30" width="40" />
   </a>
 </p>
+
 
 
 
