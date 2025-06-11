@@ -30,18 +30,34 @@
 ---
 
 <section style="max-width: 600px; margin: 30px auto; padding: 20px; background: #0d1117; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,199,255,0.2); color: #c9d1d9; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+
+  <!-- About Me Heading -->
   <h2 style="text-align: center; color: #00c7ff; margin-bottom: 24px; font-weight: 700; font-size: 2.2rem; letter-spacing: 1.2px;">
     🧑‍💻 About Me
   </h2>
+
+  <!-- About Me Content -->
   <ul style="list-style: none; padding: 0; font-size: 1.1rem; line-height: 1.6;">
     <li><strong style="color: #00c7ff;">Name:</strong> Abdullah Al Noman</li>
     <li><strong style="color: #00c7ff;">Role:</strong> Full-Stack Developer | Passionate about Python Django & React</li>
     <li><strong style="color: #00c7ff;">Location:</strong> Dhaka, Bangladesh</li>
     <li><strong style="color: #00c7ff;">Education:</strong> BSc in Computer Science & Engineering (3rd Year)</li>
+    <li><strong style="color: #00c7ff;">Interests:</strong> Artificial Intelligence, Machine Learning, Data Science, Devops, Cloud Computing</li>
+    <li><strong style="color: #00c7ff;">Current Focus:</strong> Advanced Django, and AI integration into real-world applications</li>
+    <li><strong style="color: #00c7ff;">Hobbies:</strong> Solving problems, building side projects, exploring emerging tech</li>
   </ul>
-</section>
- 
 
+  <!-- Spacer -->
+ <h2 style="text-align: center; color: #00c7ff; margin-bottom: 24px; font-weight: 700; font-size: 2.2rem; letter-spacing: 1.2px;">
+    🎯 Target in 2025
+  </h2>
+  <ul style="list-style: none; padding: 0; font-size: 1.1rem; line-height: 1.6;">
+    <li>🚀 Build and deploy at least <strong>3 full-stack projects</strong> using Django and React</li>
+    <li>👨‍💻 Solve <strong>150+ problems</strong> on LeetCode to master DSA and prepare for coding interviews</li>
+    <li>🤖 Gain <strong>hands-on AI/ML experience</strong> through mini projects or research to strengthen practical skills</li>
+  </ul>
+
+</section>
 ---
 
 ### 🛠 Tech Stack
