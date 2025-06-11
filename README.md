@@ -58,7 +58,7 @@
 ### 🧑‍💻 Coding Platforms
 
 <p align="left">
-  <a href="#" target="_blank">
+  <a href="https://leetcode.com/u/noman797/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="noman" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="#" target="_blank">
