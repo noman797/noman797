@@ -32,6 +32,7 @@
 
 <ul style="list-style: none; padding: 0; font-size: 1.1rem; line-height: 1.5;">
   <li>👨‍💻 Solve 150+ LeetCode problems</li>
+  <li>👨‍💻 Solve 150+ Codeforces problems</li>
   <li>💻 Become a Full-Stack Django Developer</li>
   <li>🤖 Gain hands-on AI/ML experience via mini projects</li>
 </ul>
