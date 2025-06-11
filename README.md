@@ -46,13 +46,13 @@
     🎯 Targets 2025
   </h2>
   <ul style="list-style: none; padding: 0; font-size: 1.1rem; line-height: 1.5;">
-    <li>🚀 Build & deploy 3+ full-stack projects (Django, React)</li>
     <li>👨‍💻 Solve 150+ LeetCode problems</li>
+    <li>💻 Become a Full-Stack Django Developer</li>
     <li>🤖 Gain hands-on AI/ML experience via mini projects</li>
   </ul>
 </section>
 
-
+<section>
 ### 🛠 Tech Stack
 
 #### Backend Development
@@ -72,7 +72,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+</section>
 
 ### 📫 Connect With Me
 
