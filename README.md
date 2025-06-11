@@ -44,15 +44,6 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Java_Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 
-<h3 align="left">Coding Platforms:</h3>
-<p align="left">
-<a href="https://www.codechef.com/users/noman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="noman" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/noman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="noman" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/noman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="noman" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/noman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="noman" height="30" width="40" /></a>
-</p>
-
-
 #### Frontend Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -64,6 +55,24 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/-MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+<section>
+  <h3 align="left">Coding Platforms:</h3>
+  <p align="left">
+    <a href="https://www.codechef.com/users/noman" target="blank">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="noman" height="30" width="40" />
+    </a>
+    <a href="https://www.hackerrank.com/noman" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="noman" height="30" width="40" />
+    </a>
+    <a href="https://codeforces.com/profile/noman" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="noman" height="30" width="40" />
+    </a>
+    <a href="https://www.leetcode.com/noman" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="noman" height="30" width="40" />
+    </a>
+  </p>
+</section>
+
 
 ### 📫 Connect With Me
 
