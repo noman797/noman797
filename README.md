@@ -39,7 +39,7 @@
   <!-- About Me Content -->
   <ul style="list-style: none; padding: 0; font-size: 1.1rem; line-height: 1.6;">
     <li><strong style="color: #00c7ff;">Name:</strong> Abdullah Al Noman</li>
-    <li><strong style="color: #00c7ff;">Role:</strong>Aspiring Full-Stack Developer | Passionate about Python Django & React</li>
+    <li><strong style="color: #00c7ff;">Role:</strong> Aspiring Full-Stack Developer | Passionate about Python Django & React</li>
     <li><strong style="color: #00c7ff;">Location:</strong> Dhaka, Bangladesh</li>
     <li><strong style="color: #00c7ff;">Education:</strong> BSc in Computer Science & Engineering (3rd Year)</li>
     <li><strong style="color: #00c7ff;">Interests:</strong> Artificial Intelligence, Machine Learning, Data Science, Devops, Cloud Computing</li>
