@@ -43,7 +43,7 @@
     <li><strong style="color: #00c7ff;">Location:</strong> Dhaka, Bangladesh</li>
     <li><strong style="color: #00c7ff;">Education:</strong> BSc in Computer Science & Engineering (3rd Year)</li>
     <li><strong style="color: #00c7ff;">Interests:</strong> Artificial Intelligence, Machine Learning, Data Science, Devops, Cloud Computing</li>
-    <li><strong style="color: #00c7ff;">Current Focus:</strong> Advanced Django, and AI integration into real-world applications</li>
+    <li><strong style="color: #00c7ff;">Current Focus:</strong> Django, and AI integration into real-world applications</li>
     <li><strong style="color: #00c7ff;">Hobbies:</strong> Solving problems, building side projects, exploring emerging tech</li>
   </ul>
 
