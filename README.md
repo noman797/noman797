@@ -55,7 +55,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/-MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-### 📫 Coding Platforms
+### 🧑‍💻 Coding Platforms
 
 <p align="left">
   <a href="#" target="_blank">
