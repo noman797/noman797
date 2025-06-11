@@ -22,21 +22,21 @@
   Hi there, I'm Noman 👋
 </h1>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=440&lines=Aspiring+Full-Stack+Developer;Python+Django+Backend+Enthusiast;Python+%7C+React+%7C+MySQL;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
+---
 
-<h2 style="text-align: center; color: #00c7ff; margin: 30px 0 16px; font-weight: 700; font-size: 2.2rem;">
-  🎯 Target in 2025
-</h2>
+### 🎯 Target in 2025
+
 <ul style="list-style: none; padding: 0; font-size: 1.1rem; line-height: 1.5;">
   <li>👨‍💻 Solve 150+ LeetCode problems</li>
   <li>💻 Become a Full-Stack Django Developer</li>
   <li>🤖 Gain hands-on AI/ML experience via mini projects</li>
 </ul>
 
+---
 
 ### 🛠 Tech Stack
 
@@ -52,11 +52,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-
 #### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
 
 ### 📫 Connect With Me
 
@@ -74,6 +74,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomancsediu&layout=compact&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomancsediu&theme=tokyonight" />
 </p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
