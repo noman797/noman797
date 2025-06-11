@@ -1,12 +1,11 @@
 <p align="center">
   <img 
-    src="https://drive.google.com/uc?export=view&id=1eb_bANboYA8tuFPZzJZbWyQC_qaMcf5w" 
+    src="https://drive.google.com/uc?export=view&id=1Cv-t5yrvA5c7_17YSyzdUmHDu5imhfez" 
     alt="Cover Photo" 
     width="100%" 
     style="max-height: 300px; object-fit: cover; border-radius: 12px;" 
   />
 </p>
-
 
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap" rel="stylesheet">
 
